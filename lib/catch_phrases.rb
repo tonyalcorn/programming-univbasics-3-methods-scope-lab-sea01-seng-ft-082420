@@ -14,7 +14,10 @@ def link
 end
 
 def all_phrases
+  phrase = "It's-a me, Mario!"
   puts phrase
+  status = "Thank You Mario! But Our Princess Is In Another Castle!"
   puts status
+  warning = "It's Dangerous To Go Alone! Take This."
   puts warning
 end
